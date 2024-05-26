@@ -1,4 +1,4 @@
-def hybrid_recommender_for_examining_weight(book_already_read, user_id, weight_for_history):
+def hybrid_recommender(book_already_read, user_id, weight_for_history):
     import random
     
     def book_recommendations_UserBased_CF(user_id):
