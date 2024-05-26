@@ -6,11 +6,13 @@
   
 </head>
 <body>
-  <video width="640" height="360" controls>
-    <source src="hr v.mp4" type="video/mp4">
-  
+ <video width="560" height="315" controls>
+    <source src="https://www.vecteezy.com/free-videos/reading-cartoon" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
+
   <h1 style="font-size: 36px;">Literary-Alchemy</h1>
+  
   <hr><p>
     <ul>
     <li>'Literary-Alchemy' is a python powered hybrid book recommender system integrating collaborative filtering and content-based filtering.</li>  
@@ -34,6 +36,8 @@
   
   <img src="https://github.com/ayushshauryajha/Literary-Alchemy/blob/main/Requirements/hr1.png" alt="Dataset Photo">
  <br>
+ </body>
+ </html>
   <h2 style="font-size: 36px;">About the model</h2><hr>
    <p>
      Model outputs the books using both User_id and books raed by the user earlier by taking into account both models (1)User based collaborative filtering and (2)Item based collaborative filtering. The number of books that are recommended on the basis of user_id and that on the basis of books read earlier depends on the weigth provided by the user .
