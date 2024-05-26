@@ -7,7 +7,7 @@
 </head>
 <body>
   <video width="640" height="360" controls>
-    <source src="" type="video/mp4">
+    <source src="https://github.com/ayushshauryajha/Literary-Alchemy/blob/main/Requirements/hr%20v.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <h1 style="font-size: 36px;">NeuroVisionAI-TumorMapperNet</h1>
