@@ -7,8 +7,8 @@
 </head>
 <body>
   <video width="640" height="360" controls>
-    <source src="https://github.com/ayushshauryajha/Literary-Alchemy/blob/main/Requirements/hr%20v.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+    <source src="hr v.mp4" type="video/mp4">
+  
   </video>
   <h1 style="font-size: 36px;">NeuroVisionAI-TumorMapperNet</h1>
   <hr><p>"NeuroVisionAI: TumorMapperNet" is an advanced deep learning model designed for precise detection and segmentation of brain tumors in MRI scans. Leveraging cutting-edge neural vision technology, the model accurately identifies tumor regions, aiding in early diagnosis and treatment planning. Its sophisticated architecture, combining convolutional and recurrent neural networks, ensures high accuracy and efficiency in tumor mapping.
